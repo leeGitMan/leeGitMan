@@ -1,6 +1,6 @@
-### 안녕하세요! 👋
+# 안녕하세요! 👋
 ## 이깃맨입니다.
-# 잘 부탁드립니다.
+### 잘 부탁드립니다.
 
 <!--
 **leeGitMan/leeGitMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
